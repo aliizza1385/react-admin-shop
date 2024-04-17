@@ -65,8 +65,6 @@ export const App = () => (
       create = {user_creaete}
       icon={UserIcon}
       />
-
-
     <Resource
       name="product"
       list={list_product}
