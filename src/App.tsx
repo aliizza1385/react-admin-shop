@@ -66,6 +66,7 @@ export const App = () => (
       icon={UserIcon}
       />
 
+
     <Resource
       name="product"
       list={list_product}
